@@ -1,1 +1,2 @@
 Arquivo texto do repositorio remoto josecarlosmacoratti/testeoriginal
+"linha adicionada em teste1.txt" 
